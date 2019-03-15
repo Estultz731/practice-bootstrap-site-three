@@ -1,0 +1,29 @@
+nav {
+    background-color: #085add;
+    -webkit-box-shadow: 0 5px 20px 0px #000;
+    -moz-box-shadow: 0 5px 20px 0px #000;
+    box-shadow: 0 5px 20px 0px #000;
+}
+
+.site {
+    color: white;
+    text-decoration: none;
+    font-family: tahoma;
+    margin-left: 10px;
+}
+
+.site:hover {
+    text-decoration: none;
+}
+
+.right {
+    float: right;
+    color: white;
+    margin-right: 10px;
+    font-family: tahoma;
+    text-decoration: none;
+}
+
+.right:hover {
+    text-decoration: none;
+}
